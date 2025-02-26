@@ -45,6 +45,26 @@ A serverless monitoring application that tracks website uptime. Features configu
 </details>
 <details>
 
+### 🤖 Telegram Bot
+A personal AI assistant agent that manages your schedule, events and calendars. 
+Check out [the GitHub repo](https://github.com/MonsterDeveloper/www-berlin-feb-2025)
+
+### 🎁 Gift Card Generator
+A gift card creator
+Check out [the GitHub repo](https://github.com/Alwurts/honc-slide-generator)
+
+### 💱 Currency Converter
+A currency converter
+Check out [the GitHub repo](GitHub.com/JBlezi/honc-currency-converter)
+
+### 🍽️ Recipe AI Assistant
+An app for recording your recipes
+Check out [the GitHub repo](https://github.com/justArale/recipe-ai-assistant)
+
+### 😂 Meme Generator
+An app for generating memes
+Check out [the GitHub repo](https://github.com/whereissam/meme-generator)
+
 ### 🎨 [Honcanator](./honcanator)
 An AI-powered goose image generator that creates comic/anime style goose images using Cloudflare AI. Stores images in R2 and metadata in Neon Postgres.
 
